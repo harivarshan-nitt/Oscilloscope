@@ -1,6 +1,6 @@
 # Oscilloscope
 Digital oscilloscope using Atmega2560 microcontroller programmed using Embedded-C
 
-![alt text](https://github.com/harivarshan-nitt/Oscilloscope/blob/main/Screenshot/Screenshot.png?raw=true)
+![alt text](![alt text](https://drive.google.com/uc?export=view&id=1QGoHMdFz77fnH3nMlet5Fz6J9p0tQWvf))
 
 #Eyantra Competition - IIT Bombay - Embedded systems
